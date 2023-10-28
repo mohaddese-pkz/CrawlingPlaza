@@ -1,2 +1,2 @@
 # CrawlingPlaza
-crawling plaza site with scrapy
+crawling plaza site writen by scrapy
