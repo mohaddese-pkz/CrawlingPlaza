@@ -1,2 +1,2 @@
 # CrawlingPlaza
-crawling plaza site writen by scrapy
+crawling https://gooshiplaza.com/ writen by scrapy
